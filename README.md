@@ -32,7 +32,11 @@ In this repository, you'll find concise explanations and simple examples of some
 3.  [Facade](https://readme.so/pt/patterns/facade.md): Provides a simplified interface to a complex subsystem.
   
 ## 💻 Technologies
-![Java](https://img.shields.io/static/v1?label=17&message=Java&color=DEB887&style=for-the-badge&logo=JAVA) ![Git](https://img.shields.io/static/v1?label=.&message=Git&color=FF6347&style=for-the-badge&logo=git) ![SQL](http://img.shields.io/static/v1?label=.&message=SQL&color=DAA520&style=for-the-badge&logo=mysql) ![Maven](https://img.shields.io/static/v1?label=.&message=Maven&color=4682B4&style=for-the-badge&logo=apache-maven) ![SonarQube](https://img.shields.io/static/v1?label=.&message=Qube&color=4E9BCD&style=for-the-badge&logo=sonarqube) 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,maven,idea,java,docker,spring,postgres&theme=light" />
+  </a>
+</p>
 
 ## ⚙️ Features
 
